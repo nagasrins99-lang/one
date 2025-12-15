@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.222.177.26:8081/repository/nandhurepo/</url>
+		    <url>http://54.144.38.58:8081/repository/mavennandhu/</url>
 		</repository>
   	</distributionManagement>
 	
